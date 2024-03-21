@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778530523312",
+    "project_id": "fluttercorse-7044e",
+    "storage_bucket": "fluttercorse-7044e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778530523312:android:407162c8e8a144db821375",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-gS-o8_k_-RZW7puYS3x3pnPQkRMGwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
